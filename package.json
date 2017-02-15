@@ -1,0 +1,40 @@
+{
+  "name": "delphi-pack",
+  "displayName": "Delphi Extension Pack",
+  "description": "Everything you need for Delphi development",
+  "version": "0.1.0",
+  "publisher": "alefragnani",
+  "engines": {
+    "vscode": "^1.6.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Languages",
+    "Formatters",
+    "Keymaps",
+    "Snippets"
+  ],
+  "keywords": [
+    "delphi",
+    "pascal"
+  ],
+  "galleryBanner": {
+    "color": "#476e83",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "homepage": "https://github.com/alefragnani/vscode-delphi-pack/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/alefragnani/vscode-delphi-pack/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alefragnani/vscode-delphi-pack"
+  },
+  "extensionDependencies": [
+    "alefragnani.pascal",
+    "alefragnani.numbered-bookmarks",
+    "alefragnani.delphi-keybindings"
+  ]
+}
