@@ -9,6 +9,7 @@ Extension | Objective
 [Language Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | Syntax Highlight, Snippets, Code Formatter and Navigation
 [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | Bookmarks in Delphi style
 [Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | Popular Delphi keyboard shortcuts
+[Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) | Make Visual Studio Code look like Delphi
 
 # License
 
