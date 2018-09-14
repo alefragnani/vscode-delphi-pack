@@ -1,3 +1,7 @@
+## [1.3.0] - 2018-09-14
+### Added
+- Patreon button
+
 ## [1.2.0] - 2018-07-16
 ### Added
 - Donation button for BRL
