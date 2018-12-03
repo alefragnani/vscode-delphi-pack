@@ -1,3 +1,7 @@
+## [1.4.0] - 2018-12-02
+### Added
+- New publishing model
+
 ## [1.3.0] - 2018-09-14
 ### Added
 - Patreon button
