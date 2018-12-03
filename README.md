@@ -1,21 +1,15 @@
-# Delphi Extension Pack for Visual Studio Code
+<p align="center">
+  <br />
+  <a title="Learn more about Delphi Extension Pack" href="http://github.com/alefragnani/vscode-delphi-pack"><img src="https://raw.githubusercontent.com/alefragnani/vscode-delphi-pack/master/images/vscode-delphi-pack-logo-readme.png" alt="Delphi Extension Pack Logo" width="70%" /></a>
+</p>
 
-Includes the basic extensions to get started with Delphi development in Visual Studio Code.
+# What's new in Delphi Extension Pack 1.4
 
-## These are the Extensions
+* **Delphi Themes** included
 
-Extension | Objective 
---------- | ---------
-[Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | Syntax Highlight, Snippets, Code Formatter and Navigation
-[Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | Bookmarks in Delphi style
-[Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | Popular Delphi keyboard shortcuts
-[Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) | Make Visual Studio Code look like Delphi
+# Support
 
-## Support Delphi Extension Pack
-
-While these extensions are free and open source, if you find it useful, please consider supporting it.
-
-I've been working on this on my spare time, and although I enjoy giving away my free time and attention to it, I'd like to do more.
+**Delphi Extension Pack** is an open source extension created for **Visual Studio Code**. While being free and open source, if you find it useful, please consider supporting it.
 
 <table align="center" width="60%" border="0">
   <tr>
@@ -31,7 +25,18 @@ I've been working on this on my spare time, and although I enjoy giving away my 
   </tr>
 </table>
 
----
+# Delphi Extension Pack
+
+Includes the basic extensions to get started with Delphi development in Visual Studio Code.
+
+## These are the Extensions
+
+Extension | Objective 
+--------- | ---------
+[Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) | Syntax Highlight, Snippets, Code Formatter and Navigation
+[Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | Bookmarks in Delphi style
+[Delphi Keymap](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-keybindings) | Popular Delphi keyboard shortcuts
+[Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) | Make Visual Studio Code look like Delphi
 
 # License
 
