@@ -3,9 +3,9 @@
   <a title="Learn more about Delphi Extension Pack" href="http://github.com/alefragnani/vscode-delphi-pack"><img src="https://raw.githubusercontent.com/alefragnani/vscode-delphi-pack/master/images/vscode-delphi-pack-logo-readme.png" alt="Delphi Extension Pack Logo" width="70%" /></a>
 </p>
 
-# What's new in Delphi Extension Pack 1.4
+# What's new in Delphi Extension Pack 2
 
-* **Delphi Themes** included
+* Adds **Delphi Themes** extension
 
 # Support
 

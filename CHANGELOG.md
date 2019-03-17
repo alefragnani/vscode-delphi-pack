@@ -1,3 +1,7 @@
+## [2.0.0] - 2019-03-17
+### Added
+- Use new `extensionPack` contribution point (issue [#3](https://github.com/alefragnani/vscode-delphi-pack/issues/3))
+
 ## [1.4.0] - 2018-12-02
 ### Added
 - New publishing model
