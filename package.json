@@ -5,7 +5,7 @@
   "version": "1.4.0",
   "publisher": "alefragnani",
   "engines": {
-    "vscode": "^1.6.0"
+    "vscode": "^1.26.0"
   },
   "categories": [
     "Extension Packs"
@@ -28,7 +28,7 @@
     "type": "git",
     "url": "https://github.com/alefragnani/vscode-delphi-pack"
   },
-  "extensionDependencies": [
+  "extensionPack": [
     "alefragnani.pascal",
     "alefragnani.numbered-bookmarks",
     "alefragnani.delphi-keybindings",
