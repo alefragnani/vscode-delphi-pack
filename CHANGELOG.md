@@ -1,3 +1,7 @@
+## [2.0.1] - 2022-07-17
+### Internal
+- Add GitHub Sponsors support (PR [#6](https://github.com/alefragnani/vscode-delphi-pack/pull/6))
+
 ## [2.0.0] - 2019-03-17
 ### Added
 - Use new `extensionPack` contribution point (issue [#3](https://github.com/alefragnani/vscode-delphi-pack/issues/3))
