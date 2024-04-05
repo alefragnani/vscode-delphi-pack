@@ -1,3 +1,7 @@
+## [2.1.0] - 2024-04-04
+### Added
+- Published to Open VSX (issue [#5](https://github.com/alefragnani/vscode-delphi-pack/issues/5))
+
 ## [2.0.1] - 2022-07-17
 ### Internal
 - Add GitHub Sponsors support (PR [#6](https://github.com/alefragnani/vscode-delphi-pack/pull/6))

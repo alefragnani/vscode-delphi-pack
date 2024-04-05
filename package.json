@@ -2,7 +2,7 @@
   "name": "delphi-pack",
   "displayName": "Delphi Extension Pack",
   "description": "Everything you need for Delphi development",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "publisher": "alefragnani",
   "engines": {
     "vscode": "^1.26.0"
