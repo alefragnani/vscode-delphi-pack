@@ -18,7 +18,7 @@
     "color": "#476e83",
     "theme": "dark"
   },
-  "icon": "docs/images/icon.png",
+  "icon": "images/icon.png",
   "homepage": "https://github.com/alefragnani/vscode-delphi-pack/blob/master/README.md",
   "bugs": {
     "url": "https://github.com/alefragnani/vscode-delphi-pack/issues"
