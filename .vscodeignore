@@ -13,3 +13,7 @@ package-lock.json
 webpack.config.js
 .github/
 .devcontainer/
+
+# gh-pages
+index.html
+styles.css
