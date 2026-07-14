@@ -51,7 +51,7 @@ Manual validation checklist:
 package.json              # Full extension-pack definition
 README.md                 # User-facing pack description
 CHANGELOG.md              # Release notes
-images/                   # Marketplace icon assets
+docs/images/              # Marketplace icon assets and gh-pages images
 ```
 ## Coding Conventions and Patterns
 
