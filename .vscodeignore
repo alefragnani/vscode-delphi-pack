@@ -15,5 +15,5 @@ webpack.config.js
 .devcontainer/
 
 # gh-pages
-index.html
-styles.css
+docs/index.html
+docs/styles.css
